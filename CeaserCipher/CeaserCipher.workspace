@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CeaserCipher" Database="" Version="10000">
+  <Project Name="ceaser_encrypt" Path="ceaser_encrypt/ceaser_encrypt.project" Active="No"/>
+  <Project Name="ceaser_decrypt" Path="ceaser_decrypt/ceaser_decrypt.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="ceaser_encrypt" ConfigName="Debug"/>
+      <Project Name="ceaser_decrypt" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="ceaser_encrypt" ConfigName="Release"/>
+      <Project Name="ceaser_decrypt" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
